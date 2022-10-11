@@ -10,7 +10,7 @@ body {
   font-size: 70px;
   max-width: 700px;
   font-family: Arial;
-  color: white;
+  color: #d8b340;
   padding: 20px;
   display: flex;
   justify-content: center;
@@ -32,8 +32,9 @@ body {
   align-items: center;
   text-align: center;
   font-size: 16px;
-  font-family: Arial;
+  font-family: "Times New Roman", Times, serif;
   color: #161616;
+  background-color: #d8b340;
   padding: 20px;
 }
 
