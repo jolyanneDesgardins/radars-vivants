@@ -12,6 +12,9 @@ body {
   font-family: Arial;
   color: white;
   padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .hero {
   width: 100vw;
@@ -22,4 +25,18 @@ body {
   background-image: url(https://ex.smnarnold.com/git/radars-vivants/fillette-de-face.jpeg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
+}
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  font-family: Arial;
+  color: #161616;
+  padding: 20px;
+}
+
+.video {
+  width: 100vw;
 }
