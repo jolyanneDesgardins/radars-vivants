@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(https://ex.smnarnold.com/git/radars-vivants/fillette-de-face.jpeg);
+  background-image: url(https://ex.smnarnold.com/git/radars-vivants/fillette-de-dos.jpeg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
@@ -34,7 +34,8 @@ body {
   font-size: 16px;
   font-family: Arial;
   color: #161616;
-  padding: 20px;
+  padding: 50px;
+  line-height: 2em;
 }
 
 .video {
